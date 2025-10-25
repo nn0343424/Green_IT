@@ -57,11 +57,11 @@ Follow these steps to set up the project locally.
     MONGODB_URI=mongodb+srv://<USERNAME>:<PASSWORD>@clusterone.cvieati.mongodb.net/ewaste
 
     # Gmail SMTP Credentials for Nodemailer (Must use a 16-character App Password)
-    NODEMAILER_USER=nn0343424@gmail.com
-    NODEMAILER_PASS=xnngjksbxvghtiwd 
+    NODEMAILER_USER=YOUR MAIL
+    NODEMAILER_PASS=APP PASSWORD 
 
     # Gemini API Key for AI functionality
-    GEMINI_API_KEY=AIzaSyBkBM8lro5E8Y0zDBd3FsdMzNyZPXXfobg
+    GEMINI_API_KEY="YOUR API KEY"
     ```
     * **Note on MONGODB_URI:** Ensure your current development IP address is **whitelisted** in your MongoDB Atlas Security settings.
     * **Note on NODEMAILER_PASS:** This **must** be a 16-character **App Password** generated from your Google Security page, not your primary Gmail password.
