@@ -5,6 +5,4 @@ node_modules/
 .env
 server/.env
 
-# Ignore build/temp files
-dist/
-.vscode/        
+      
