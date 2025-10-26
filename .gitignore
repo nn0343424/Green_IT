@@ -1,0 +1,10 @@
+# Ignore Node module folders
+node_modules/
+
+# Ignore environment files
+.env
+server/.env
+
+# Ignore build/temp files
+dist/
+.vscode/        
